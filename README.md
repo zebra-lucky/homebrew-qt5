@@ -1,1 +1,1 @@
-# brew tap for Qt-5.5.1
+# brew tap for Qt-5.11.2
